@@ -14,13 +14,13 @@ You can check out the page by the link: \
 Clone the repository:
 
 ```bash
-git clone https://github.com/username/MYBIKE.git
+git clone https://github.com/v1RnT/mybike-landing
 ```
 
 Navigate to the directory:
 
 ```bash
-cd MYBIKE
+cd mybike-landing
 ```
 
 Before the installation, make sure to set the right version for Node 14:
