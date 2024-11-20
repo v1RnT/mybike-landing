@@ -5,6 +5,10 @@ MyBike Landing Page is designed to showcase modern bikes, features, and provide 
 You can check out the page by the link: \
 [Demo Link](https://v1rnt.github.io/mybike-landing/)
 
+## Technologies Used
+HTML5: Semantic and accessible markup. \
+SCSS: Modular and maintainable CSS preprocessor. 
+
 ## Installation
 
 Clone the repository:
